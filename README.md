@@ -1,3 +1,16 @@
+# instruction
+
+      #name : Kimhyesu
+
+      #learning C# winform and video proccessing
+
+      # Youtube 채널 : 김혜수
+      # Tistory : https://khs2346.tistory.com/
+
+      # contact
+
+      # E-mail : juid00@naver.com
+
 # SmartFan
 
 개발환경 : vs 2017 , atmel studio 7.0
@@ -8,5 +21,5 @@
 
 avr -> c# 포트 number 9600 확인 -> rfid card 사용 -> 강중약 dc모터 제어 
 
-읽어주셔서 
+읽어주셔서 감사합니다
 
